@@ -1,5 +1,4 @@
-# Buky-s-Portfolio
-Analytics Portfolio
+# Buky-s- Analytics Portfolio
 
 ## Project 1; Analyzing the relationship between parental income and their ward's academic performance.
 
