@@ -1,7 +1,7 @@
 # Buky-s-Portfolio
 Analytics Portfolio
 
-## Analyzing the relationship between parental income and their ward's academic performance.
+## Project 1; Analyzing the relationship between parental income and their ward's academic performance.
 
 Overview
 (This is a fictional dataset).
@@ -22,7 +22,7 @@ The data was downloaded in CSV format and opened in Excel. The data was checked 
 ##Data Analysis and Visualizations
 The data was imported to Power BI for analysis and visualization. Additional measures, such as Average Parental income and Number of students analyzed in the data(Sample size), were added to understand better the information given. Bar charts, line charts and donut charts were used to create visualizations. 
 
-Reports and Insights;
+##Reports and Insights;
 The reports show as follows;
 In high school, a student's performance is directly proportional to their parent's income, but more evidently, this relationship is displayed in the College GPA. Succeeding in college requires more focus and a sound support system; low-earners cannot afford the luxury of this requirement. This means that the higher the parents earn, the better their child performs in high school and college. Higher-income earners have access to better schools which are located in more affluent zip codes, in addition to superior outdoor learning experiences.
 
@@ -30,7 +30,7 @@ It also shows that the higher the parental level of education, the higher the in
 
 Lastly, it indicates that the lower the parents' income, the longer it takes their ward to graduate from a 4-year college. 
 
-Conclusion
+##Conclusion
 A child's prosperity is directly proportional to the level of education and income of the parents. Sure, some anomalies exist, but the cycle continues in a loop. The chances of success are linked directly to the success of one's parents. In summary, parents should aim to attain high in life if they want their children to have outstanding achievements.
 
 
