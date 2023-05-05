@@ -14,7 +14,7 @@ To demonstrate the stages required to process and analyze. Also, to showcase the
 Data was sourced through [Kaggle](kaggle.com) and provided by [Data set Link](https://roycekimmons.com/tools/generated_data/graduation_rate)
 
 ## Data Cleaning and Processing;
-The data was downloaded in CSV format and opened in Excel. The data was checked for missing or null values and was found to have none. The find and replace function was used to modify the column 'Parental Level of Education' to have corresponding names such as; 'Some college' replaced with 'College' and 'Some high school' replaced with 'High School'. This was done to avoid multiple classifications under the category. Searched for duplicates, and the data was found to have none.
+The data was downloaded in CSV format and opened in Google Sheets. The data was checked for missing or null values and was found to have none. The find and replace function was used to modify the column 'Parental Level of Education' to have corresponding names such as; 'Some college' replaced with 'College' and 'Some high school' replaced with 'High School'. This was done to avoid multiple classifications under the category. Searched for duplicates, and the data was found to have none.
 
 ## Data Analysis and Visualizations
 The data was imported to Power BI for analysis and visualization. Additional measures, such as Average Parental income and Number of students analyzed in the data(Sample size), were added to understand better the information given. Bar charts, line charts and donut charts were used to create visualizations. 
