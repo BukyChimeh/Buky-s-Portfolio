@@ -6,7 +6,7 @@ Overview
 (This is a fictional dataset).
 This data set includes graduation rates from a four-year college with various student factors.
 
-![Alt text]("C:\Users\Buky Chimeh\Documents\WORK\DATA ANALYTICS\PORTFOLIO\PDF\Graduation Rates.png")
+![Alt text](C:\Users\Buky Chimeh\Documents\WORK\DATA ANALYTICS\PORTFOLIO\PDF\Graduation Rates.png)
 
 
 ## Aim; 
