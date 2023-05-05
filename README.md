@@ -6,8 +6,7 @@ Overview
 (This is a fictional dataset).
 This data set includes graduation rates from a four-year college with various student factors.
 
-![Alt text](C:\Users\Buky Chimeh\Documents\WORK\DATA ANALYTICS\PORTFOLIO\PDF\Graduation Rates.png)
-
+![Graduation Rates](https://user-images.githubusercontent.com/132451311/236457879-cebceafb-91d6-4ce1-8b3f-59dae1aa2fb6.png)
 
 ## Aim; 
 To demonstrate the stages required to process and analyze. Also, to showcase the direct relationship between parental income, level of education and its effect on their ward's academic performance. 
