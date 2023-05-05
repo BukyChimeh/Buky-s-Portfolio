@@ -1,8 +1,7 @@
-# Buky-s- Analytics Portfolio
 
-## Project 1; Analyzing the relationship between parental income and their ward's academic performance.
+# Project 1; Analyzing the relationship between parental income and their ward's academic performance.
 
-Overview
+## Overview
 (This is a fictional dataset).
 This data set includes graduation rates from a four-year college with various student factors.
 
