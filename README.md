@@ -34,7 +34,7 @@ A child's prosperity is directly proportional to the level of education and inco
 # Project 2; Analyzing the Housing Cost in North-Eastern America.
 
 ## Overview
-This data set includes housing information for 6 States in the North-Eastern area and 2 US Islands in United States.
+This data set includes housing information for Six(6) States in the North-Eastern area and two(2) US Islands in United States.
 ![Housing Data](https://github.com/BukyChimeh/Bukys_Portfolio/assets/132451311/eefd912d-3c23-4461-879e-afa3e90129ab)
 
 
@@ -52,7 +52,7 @@ The data was downloaded in CSV format and opened R. The data was cleaned in R th
 The data was imported to Power BI for analysis and visualization, with additional measures added to the dataframe. 
 
 ## Reports and Insights;
-* The insights show that on average, the most expensive state to live in, is the 
+* The insights show that on average, the most expensive and least expensive state to live in. It also shows the average price of a property in those States. 
 
 
 
