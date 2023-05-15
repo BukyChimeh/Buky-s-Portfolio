@@ -35,6 +35,8 @@ A child's prosperity is directly proportional to the level of education and inco
 
 ## Overview
 This data set includes housing information for 6 States in the North-Eastern area and 2 US Islands in United States.
+![Housing Data](https://github.com/BukyChimeh/Bukys_Portfolio/assets/132451311/eefd912d-3c23-4461-879e-afa3e90129ab)
+
 
 ## Aim; 
 To discover the cheapest and most expensive cities to purchase a home in the North-East Coast. 
