@@ -31,6 +31,27 @@ The reports show as follows;
 A child's prosperity is directly proportional to the level of education and income of the parents. Sure, some anomalies exist, but the cycle continues in a loop. The chances of success are linked directly to the success of one's parents. In summary, parents should aim to attain high in life if they want their children to have outstanding achievements.
 
 
+# Project 2; Analyzing the Housing Cost in North-Eastern America.
+
+## Overview
+This data set includes housing information for 6 States in the North-Eastern area and 2 US Islands in United States.
+
+## Aim; 
+To discover the cheapest and most expensive cities to purchase a home in the North-East Coast. 
+
+## Data Collection
+Data was sourced through [Kaggle](kaggle.com) and provided by [Data set Link](https://www.kaggle.com/jayoza198)
+
+## Data Cleaning and Processing;
+The data was downloaded in CSV format and opened R. The data was cleaned in R through the following steps; [Cleaning Link] (file:///C:/Users/Buky%20Chimeh/Documents/WORK/DATA%20ANALYTICS/PORTFOLIO/Housing-Data.html)
+
+
+## Data Analysis and Visualizations
+The data was imported to Power BI for analysis and visualization, with additional measures added to the dataframe. 
+
+## Reports and Insights;
+* The insights show that on average, the most expensive state to live in, is the 
+
 
 
 
