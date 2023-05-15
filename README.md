@@ -45,7 +45,7 @@ To discover the cheapest and most expensive cities to purchase a home in the Nor
 Data was sourced through [Kaggle](kaggle.com) and provided by [Data set Link](https://www.kaggle.com/jayoza198)
 
 ## Data Cleaning and Processing;
-The data was downloaded in CSV format and opened R. The data was cleaned in R through the following steps; [Cleaning Link] (file:///C:/Users/Buky%20Chimeh/Documents/WORK/DATA%20ANALYTICS/PORTFOLIO/Housing-Data.html)
+The data was downloaded in CSV format and opened R. The data was cleaned in R through the following steps; [Cleaning Link] (README.md)
 
 
 ## Data Analysis and Visualizations
