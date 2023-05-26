@@ -56,16 +56,28 @@ The data was imported to Power BI for analysis and visualization, with additiona
 
 
 # Project 3; Analyzing TV Brand popularity.
+
+## Overview
 This dataset includes specifications of different televisions offered by various brands with prices and ratings.
+![TV Data](https://github.com/BukyChimeh/Chimehs_Portfolio/assets/132451311/0bb4ca93-15ba-47a7-bd5a-a65af152334c)
+
 
 ## Aim; 
 To understand customers buying trends across TV Brands in relation to customer rating and brand discount. 
 
-## Data Collection
+## Data Collection;
 Data was sourced through [Kaggle](kaggle.com) and provided by [Data set Link](https://www.kaggle.com/datasets/devsubhash/television-brands-ecommerce-dataset)
 
 ## Data Cleaning and Processing;
-The data was downloaded in CSV format and opened SQL(Big Query). The data was cleaned in SQL through the following steps; [Cleaning Link](https://github.com/BukyChimeh/Cleaning-in-R/tree/main)
+The data was downloaded in CSV format and opened SQL(Big Query). The data was cleaned in SQL through the following steps; [Cleaning Link](https://github.com/BukyChimeh/Cleaning-in-SQL/tree/main)
+
+## Data Analysis and Visualizations;
+The data was imported to Tableau for analysis and visualization, with additional measures added to the dataframe. 
+
+## Reports and Insights;
+* Top 5 Brands most expensive brands are not typically the highest rated on average.
+* The market contains more popular and expensive brands, and do not typically have high markdown on sale prices. 
+* Regardless of this, customers demand and purchase more expensive brands, proving that more customers rely on brand names more than they relay on ratings. 
 
 
 
