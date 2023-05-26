@@ -1,11 +1,37 @@
 
-# Project 1; Analyzing the relationship between parental income and their ward's academic performance.
+# Project 1; Analyzing TV Brand popularity.
+
+## Overview
+This dataset includes specifications of different televisions offered by various brands with prices and ratings.
+![TV Data](https://github.com/BukyChimeh/Chimehs_Portfolio/assets/132451311/0bb4ca93-15ba-47a7-bd5a-a65af152334c)
+
+
+## Aim; 
+To understand customers buying trends across TV Brands in relation to customer rating and brand discount. 
+
+## Data Collection;
+Data was sourced through [Kaggle](kaggle.com) and provided by [Data set Link](https://www.kaggle.com/datasets/devsubhash/television-brands-ecommerce-dataset)
+
+## Data Cleaning and Processing;
+The data was downloaded in CSV format and opened SQL(Big Query). The data was cleaned in SQL through the following steps; [Cleaning Link](https://github.com/BukyChimeh/Cleaning-in-SQL/tree/main)
+
+## Data Analysis and Visualizations;
+The data was imported to Tableau for analysis and visualization, with additional measures added to the dataframe. 
+
+## Reports and Insights;
+* Top 5 Brands most expensive brands are not typically the highest rated on average.
+* The market contains more popular and expensive brands, and do not typically have high markdown on sale prices. 
+* Regardless of this, customers demand and purchase more expensive brands, proving that more customers rely on brand names more than they rely on user ratings. 
+
+
+# Project 2; Analyzing the relationship between parental income and their ward's academic performance.
 
 ## Overview
 (This is a fictional dataset).
 This data set includes graduation rates from a four-year college with various student factors.
 
-![Graduation Rates](https://user-images.githubusercontent.com/132451311/236457879-cebceafb-91d6-4ce1-8b3f-59dae1aa2fb6.png)
+![Graduation Rates](https://github.com/BukyChimeh/Chimehs_Portfolio/assets/132451311/d964ea57-7bb3-4e43-be0e-782295770fc6)
+
 
 ## Aim; 
 To demonstrate the stages required to process and analyze. Also, to showcase the direct relationship between parental income, level of education and its effect on their ward's academic performance. 
@@ -31,7 +57,7 @@ The reports show as follows;
 A child's prosperity is directly proportional to the level of education and income of the parents. Sure, some anomalies exist, but the cycle continues in a loop. The chances of success are linked directly to the success of one's parents. In summary, parents should aim to attain high in life if they want their children to have outstanding achievements.
 
 
-# Project 2; Analyzing the Housing Cost in North-Eastern America.
+# Project 3; Analyzing the Housing Cost in North-Eastern America.
 
 ## Overview
 This data set includes housing information for Six(6) States in the North-Eastern area and two(2) US Islands in United States.
@@ -54,30 +80,6 @@ The data was imported to Power BI for analysis and visualization, with additiona
 ## Reports and Insights;
 * The insights show that on average, the most expensive and least expensive state to live in. It also shows the average price of a property in those States. 
 
-
-# Project 3; Analyzing TV Brand popularity.
-
-## Overview
-This dataset includes specifications of different televisions offered by various brands with prices and ratings.
-![TV Data](https://github.com/BukyChimeh/Chimehs_Portfolio/assets/132451311/0bb4ca93-15ba-47a7-bd5a-a65af152334c)
-
-
-## Aim; 
-To understand customers buying trends across TV Brands in relation to customer rating and brand discount. 
-
-## Data Collection;
-Data was sourced through [Kaggle](kaggle.com) and provided by [Data set Link](https://www.kaggle.com/datasets/devsubhash/television-brands-ecommerce-dataset)
-
-## Data Cleaning and Processing;
-The data was downloaded in CSV format and opened SQL(Big Query). The data was cleaned in SQL through the following steps; [Cleaning Link](https://github.com/BukyChimeh/Cleaning-in-SQL/tree/main)
-
-## Data Analysis and Visualizations;
-The data was imported to Tableau for analysis and visualization, with additional measures added to the dataframe. 
-
-## Reports and Insights;
-* Top 5 Brands most expensive brands are not typically the highest rated on average.
-* The market contains more popular and expensive brands, and do not typically have high markdown on sale prices. 
-* Regardless of this, customers demand and purchase more expensive brands, proving that more customers rely on brand names more than they rely on user ratings. 
 
 
 
