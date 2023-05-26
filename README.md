@@ -77,7 +77,7 @@ The data was imported to Tableau for analysis and visualization, with additional
 ## Reports and Insights;
 * Top 5 Brands most expensive brands are not typically the highest rated on average.
 * The market contains more popular and expensive brands, and do not typically have high markdown on sale prices. 
-* Regardless of this, customers demand and purchase more expensive brands, proving that more customers rely on brand names more than they relay on ratings. 
+* Regardless of this, customers demand and purchase more expensive brands, proving that more customers rely on brand names more than they rely on user ratings. 
 
 
 
