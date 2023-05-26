@@ -55,6 +55,20 @@ The data was imported to Power BI for analysis and visualization, with additiona
 * The insights show that on average, the most expensive and least expensive state to live in. It also shows the average price of a property in those States. 
 
 
+# Project 3; Analyzing TV Brand popularity.
+This dataset includes specifications of different televisions offered by various brands with prices and ratings.
+
+## Aim; 
+To understand customers buying trends across TV Brands in relation to customer rating and brand discount. 
+
+## Data Collection
+Data was sourced through [Kaggle](kaggle.com) and provided by [Data set Link](https://www.kaggle.com/datasets/devsubhash/television-brands-ecommerce-dataset)
+
+## Data Cleaning and Processing;
+The data was downloaded in CSV format and opened SQL(Big Query). The data was cleaned in SQL through the following steps; [Cleaning Link](https://github.com/BukyChimeh/Cleaning-in-R/tree/main)
+
+
+
 
 
 
