@@ -7,7 +7,7 @@ This dataset includes specifications of different televisions offered by various
 
 
 ## Aim; 
-To understand customers buying trends across TV Brands in relation to customer rating and brand discount. 
+To understand customers' buying trends across TV Brands in relation to customer rating and brand discount. 
 
 ## Data Collection;
 Data was sourced through [Kaggle](kaggle.com) and provided by [Data set Link](https://www.kaggle.com/datasets/devsubhash/television-brands-ecommerce-dataset)
@@ -16,11 +16,11 @@ Data was sourced through [Kaggle](kaggle.com) and provided by [Data set Link](ht
 The data was downloaded in CSV format and opened SQL(Big Query). The data was cleaned in SQL through the following steps; [Cleaning Link](https://github.com/BukyChimeh/Cleaning-in-SQL/tree/main)
 
 ## Data Analysis and Visualizations;
-The data was imported to Tableau for analysis and visualization, with additional measures added to the dataframe. 
+The data was imported to Tableau for analysis and visualization, with additional measures added to the data frame. 
 
 ## Reports and Insights;
 * Top 5 Brands most expensive brands are not typically the highest rated on average.
-* The market contains more popular and expensive brands, and do not typically have high markdown on sale prices. 
+* The market contains more popular and expensive brands and does not typically have a high markdown on sale prices. 
 * Regardless of this, customers demand and purchase more expensive brands, proving that more customers rely on brand names more than they rely on user ratings. 
 
 
@@ -60,12 +60,12 @@ A child's prosperity is directly proportional to the level of education and inco
 # Project 3; Analyzing the Housing Cost in North-Eastern America.
 
 ## Overview
-This data set includes housing information for Six(6) States in the North-Eastern area and two(2) US Islands in United States.
+This data set includes housing information for Six(6) States in the Northeastern area and two(2) US Islands in the United States.
 ![Housing Data](https://github.com/BukyChimeh/Bukys_Portfolio/assets/132451311/eefd912d-3c23-4461-879e-afa3e90129ab)
 
 
 ## Aim; 
-To discover the cheapest and most expensive cities to purchase a home in the North-East Coast. 
+To discover the cheapest and most expensive cities to purchase a home on the North-East Coast. 
 
 ## Data Collection
 Data was sourced through [Kaggle](kaggle.com) and provided by [Data set Link](https://www.kaggle.com/jayoza198)
@@ -75,12 +75,17 @@ The data was downloaded in CSV format and opened R. The data was cleaned in R th
 
 
 ## Data Analysis and Visualizations
-The data was imported to Power BI for analysis and visualization, with additional measures added to the dataframe. 
+The data was imported to Power BI for analysis and visualization, with additional measures added to the data frame. 
 
 ## Reports and Insights;
-* The insights show that on average, the most expensive and least expensive state to live in. It also shows the average price of a property in those States. 
+* The insights show that on average, the most expensive and least expensive state to live in. It also shows the average price of a property in those States.
 
+# Project 4; Analysis of the Purchase History of New Customers.
 
+## Overview
+This data set is a fictional dataset from an internship, which was used to showcase my analytics skills. 
+
+![Dashboard](https://github.com/BukyChimeh/Chimehs_Portfolio/assets/132451311/259e3e3e-01ec-40f2-a0d0-b19d32b9f6ea)
 
 
 
